@@ -20,5 +20,5 @@ Hi there 👋 I AM SHARON OMOVIE
   <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="60" height="60" style="max-width: 100%;"> </a>
   <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60" style="max-width: 100%;"> </a>
   <a href="https://azure.microsoft.com/en-us/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60" style="max-width: 100%;"> </a>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60" style="max-width: 100%;">
+ <a href="https://github.com/"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="60" height="60" style="max-width: 100%;"> </a>
   <a href="https://slack.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="60" height="60" style="max-width: 100%;"> </a>
