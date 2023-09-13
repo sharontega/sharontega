@@ -1,5 +1,5 @@
-![Capture](https://github.com/sharontega/sharontega/assets/60758724/4b779381-404f-49d0-9eb7-c70d77d06b03)
 
+![Annotation 2023-09-13 112900](https://github.com/sharontega/sharontega/assets/60758724/2e1d1a60-d083-4dd0-bc74-e6173cb3a603)
 
 
 
