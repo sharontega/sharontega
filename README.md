@@ -1,17 +1,5 @@
 
 ![Annotation 2023-09-13 112900](https://github.com/sharontega/sharontega/assets/60758724/2e1d1a60-d083-4dd0-bc74-e6173cb3a603)
-                <a href="https://www.linkedin.com/in/sharon-omovie/" class="rectangle">
-                    <i class="fa fa-linkedin"></i>
-                </a>
-                <a href="https://github.com/sharontega" class="rectangle">
-                    <i class="fa fa-github"></i>
-                </a>
-                <a href="#" class="rectangle">
-                    <i class="fa fa-twitter"></i>
-                </a>
-                <a href="mailto:sharonomovie59@gmail.com" class="rectangle">
-                    <i class="fa fa-envelope"></i>
-                </a>
 
 <hr>
 Hi there 👋 I AM SHARON OMOVIE
@@ -27,3 +15,10 @@ Hi there 👋 I AM SHARON OMOVIE
   <h2>SKILLS AND TOOLS</h2>
   <a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60" style="max-width: 100%;"> </a>
   <a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60" style="max-width: 100%;"> </a>
+  <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="max-width: 100%;"> </a>
+  <a href="https://jupyter.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60" style="max-width: 100%;"> </a>
+  <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="60" height="60" style="max-width: 100%;"> </a>
+  <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60" style="max-width: 100%;"> </a>
+  <a href="https://azure.microsoft.com/en-us/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60" style="max-width: 100%;"> </a>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60" style="max-width: 100%;">
+  <a href="https://slack.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="60" height="60" style="max-width: 100%;"> </a>
