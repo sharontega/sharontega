@@ -13,12 +13,10 @@
                 </a>
                 <a href="#" class="rectangle">
                     <i class="fa fa-twitter"></i>
-                </a>
-                
+                </a> 
                 <a href="mailto:sharonomovie59@gmail.com" class="rectangle">
                     <i class="fa fa-envelope"></i>
                 </a>
-                
             </div>
         </section>
 
