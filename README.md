@@ -2,7 +2,7 @@
 ![Annotation 2023-09-13 112900](https://github.com/sharontega/sharontega/assets/60758724/2e1d1a60-d083-4dd0-bc74-e6173cb3a603)
 
 <hr>
-### Hi there 👋
+Hi there 👋 I AM SHARON OMOVIE
 
 - 🔭 I’m currently working on writing technical articles and analyzing data
 - 🌱 I’m currently learning ... cloud based services(Azure)
@@ -13,3 +13,5 @@
 - ⚡ Fun fact: i love trying new things and i am a curious cat
   <hr>
   <h2>SKILLS AND TOOLS</h2>
+  <a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60" style="max-width: 100%;"> </a>
+  <a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60" style="max-width: 100%;"> </a>
