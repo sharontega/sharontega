@@ -12,4 +12,4 @@
 - 📫 How to reach me: check my profile
 - ⚡ Fun fact: i love trying new things and i am a curious cat
   <hr>
-  <a href="https://azure.microsoft.com/en-us/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60" style="max-width: 100%;"> </a>
+  <h2>SKILLS AND TOOLS</h2>
