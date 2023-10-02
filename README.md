@@ -4,10 +4,10 @@
 <hr>
 Hi there 👋 I AM SHARON OMOVIE
 
-- 🔭 I’m currently working on writing technical articles and analyzing data
+- 🔭 I analyse data and write technical articles.
 - 🌱 I’m currently learning ... cloud based services(Azure)
-- 👯 I’m looking to collaborate on projects that help solve real life problems
-- 🤔 I’m looking for help with job oppoturnities
+- 👯 I’m open to collaborate on real world projects that help solve real life problems.
+- 🤔 Open to job opportunities
 - 💬 Ask me about data analysis and technical writing
 - 📫 How to reach me: check my profile
 - ⚡ Fun fact: i love trying new things and i am a curious cat
